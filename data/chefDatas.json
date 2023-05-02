@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "chef_picture": "https://i.ibb.co/zNNWQ8r/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash.jpg",
+    "chef_name": "John Smith",
+    "short_bio": "John is a classically trained chef with a passion for French cuisine.",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 1000
+  },
+  {
+    "id": "2",
+    "chef_picture": "https://i.ibb.co/106fJ43/tr-ng-trung-c-p-kinh-t-du-l-ch-thanh-ph-h-chi-minh-cet-COa-Qss13c-k-unsplash.jpg",
+    "chef_name": "Jane Doe",
+    "short_bio": "Jane is a self-taught chef who specializes in fusion dishes.",
+    "years_of_experience": 8,
+    "num_recipes": 35,
+    "likes": 800
+  },
+  {
+    "id": "3",
+    "chef_picture": "https://i.ibb.co/VpFnFZR/rc-cf-r-JWet3r-YVWM-unsplash.jpg",
+    "chef_name": "Mark Johnson",
+    "short_bio": "Mark is a farm-to-table chef who sources his ingredients locally.",
+    "years_of_experience": 15,
+    "num_recipes": 75,
+    "likes": 1200
+  },
+  {
+    "id": "4",
+    "chef_picture": "https://i.ibb.co/hLRw0Ny/toa-heftiba-5-Je-Tin55-H9-U-unsplash.jpg",
+    "chef_name": "Sarah Lee",
+    "short_bio": "Sarah is a pastry chef who specializes in gluten-free desserts.",
+    "years_of_experience": 5,
+    "num_recipes": 20,
+    "likes": 500
+  },
+  {
+    "id": "5",
+    "chef_picture": "https://i.ibb.co/xzk2DFT/petr-sevcovic-e5-Q5v-WO55u-U-unsplash-1.jpg",
+    "chef_name": "David Kim",
+    "short_bio": "David is a Korean-American chef who combines his heritage with modern techniques.",
+    "years_of_experience": 12,
+    "num_recipes": 60,
+    "likes": 900
+  },
+  {
+    "id": "6",
+    "chef_picture": "https://i.ibb.co/rM1434L/abdalla-m-Lmv0-Y9q-IABc-unsplash.jpg",
+    "chef_name": "Emily Chen",
+    "short_bio": "Emily is a vegan chef who creates plant-based versions of classic dishes.",
+    "years_of_experience": 7,
+    "num_recipes": 30,
+    "likes": 700
+  }
+]
