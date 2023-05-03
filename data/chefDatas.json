@@ -6,7 +6,48 @@
     "short_bio": "John is a classically trained chef with a passion for French cuisine.",
     "years_of_experience": 10,
     "num_recipes": 50,
-    "likes": 1000
+    "likes": 1000,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "ingredients": [
+          "chicken breast",
+          "dried red chilies",
+          "roasted peanuts",
+          "soy sauce",
+          "hoisin sauce"
+        ],
+        "cookingMethod": "1. Cut the chicken into small pieces and marinate with soy sauce, cornstarch and Shaoxing wine for 20 minutes. 2. Heat oil in a wok or pan, stir-fry the chicken until golden brown and set aside. 3. Stir-fry the dried red chilies, Sichuan peppercorns and garlic until fragrant. 4. Add the chicken back to the wok, along with hoisin sauce and roasted peanuts. 5. Stir-fry everything for a few minutes, then serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Hot and Sour Soup",
+        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "ingredients": [
+          "tofu",
+          "bamboo shoots",
+          "wood ear mushrooms",
+          "egg",
+          "white pepper"
+        ],
+        "cookingMethod": "1. Soak the wood ear mushrooms in water until soft, then slice into thin strips. 2. Cut tofu and bamboo shoots into thin strips. 3. Bring chicken stock to a boil, add the tofu, bamboo shoots, and wood ear mushrooms and simmer for 5 minutes. 4. Beat an egg in a small bowl and slowly pour into the soup while stirring. 5. Season with white pepper and vinegar. 6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Dumplings",
+        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "ingredients": [
+          "ground pork",
+          "chinese cabbage",
+          "green onion",
+          "ginger",
+          "wonton wrappers"
+        ],
+        "cookingMethod": "1. Mix ground pork, chopped Chinese cabbage, chopped green onion, and minced ginger in a bowl. 2. Place a spoonful of the filling onto a wonton wrapper. 3. Wet the edges of the wrapper with water and fold in half to seal. 4. Bring a pot of water to a boil, add the dumplings and cook until they float to the surface. 5. Serve with soy sauce or dipping sauce.",
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": "2",
@@ -15,7 +56,48 @@
     "short_bio": "Jane is a self-taught chef who specializes in fusion dishes.",
     "years_of_experience": 8,
     "num_recipes": 35,
-    "likes": 800
+    "likes": 800,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "ingredients": [
+          "chicken breast",
+          "dried red chilies",
+          "roasted peanuts",
+          "soy sauce",
+          "hoisin sauce"
+        ],
+        "cookingMethod": "1. Cut the chicken into small pieces and marinate with soy sauce, cornstarch and Shaoxing wine for 20 minutes. 2. Heat oil in a wok or pan, stir-fry the chicken until golden brown and set aside. 3. Stir-fry the dried red chilies, Sichuan peppercorns and garlic until fragrant. 4. Add the chicken back to the wok, along with hoisin sauce and roasted peanuts. 5. Stir-fry everything for a few minutes, then serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Hot and Sour Soup",
+        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "ingredients": [
+          "tofu",
+          "bamboo shoots",
+          "wood ear mushrooms",
+          "egg",
+          "white pepper"
+        ],
+        "cookingMethod": "1. Soak the wood ear mushrooms in water until soft, then slice into thin strips. 2. Cut tofu and bamboo shoots into thin strips. 3. Bring chicken stock to a boil, add the tofu, bamboo shoots, and wood ear mushrooms and simmer for 5 minutes. 4. Beat an egg in a small bowl and slowly pour into the soup while stirring. 5. Season with white pepper and vinegar. 6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Dumplings",
+        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "ingredients": [
+          "ground pork",
+          "chinese cabbage",
+          "green onion",
+          "ginger",
+          "wonton wrappers"
+        ],
+        "cookingMethod": "1. Mix ground pork, chopped Chinese cabbage, chopped green onion, and minced ginger in a bowl. 2. Place a spoonful of the filling onto a wonton wrapper. 3. Wet the edges of the wrapper with water and fold in half to seal. 4. Bring a pot of water to a boil, add the dumplings and cook until they float to the surface. 5. Serve with soy sauce or dipping sauce.",
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": "3",
@@ -24,7 +106,48 @@
     "short_bio": "Mark is a farm-to-table chef who sources his ingredients locally.",
     "years_of_experience": 15,
     "num_recipes": 75,
-    "likes": 1200
+    "likes": 1200,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "ingredients": [
+          "chicken breast",
+          "dried red chilies",
+          "roasted peanuts",
+          "soy sauce",
+          "hoisin sauce"
+        ],
+        "cookingMethod": "1. Cut the chicken into small pieces and marinate with soy sauce, cornstarch and Shaoxing wine for 20 minutes. 2. Heat oil in a wok or pan, stir-fry the chicken until golden brown and set aside. 3. Stir-fry the dried red chilies, Sichuan peppercorns and garlic until fragrant. 4. Add the chicken back to the wok, along with hoisin sauce and roasted peanuts. 5. Stir-fry everything for a few minutes, then serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Hot and Sour Soup",
+        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "ingredients": [
+          "tofu",
+          "bamboo shoots",
+          "wood ear mushrooms",
+          "egg",
+          "white pepper"
+        ],
+        "cookingMethod": "1. Soak the wood ear mushrooms in water until soft, then slice into thin strips. 2. Cut tofu and bamboo shoots into thin strips. 3. Bring chicken stock to a boil, add the tofu, bamboo shoots, and wood ear mushrooms and simmer for 5 minutes. 4. Beat an egg in a small bowl and slowly pour into the soup while stirring. 5. Season with white pepper and vinegar. 6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Dumplings",
+        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "ingredients": [
+          "ground pork",
+          "chinese cabbage",
+          "green onion",
+          "ginger",
+          "wonton wrappers"
+        ],
+        "cookingMethod": "1. Mix ground pork, chopped Chinese cabbage, chopped green onion, and minced ginger in a bowl. 2. Place a spoonful of the filling onto a wonton wrapper. 3. Wet the edges of the wrapper with water and fold in half to seal. 4. Bring a pot of water to a boil, add the dumplings and cook until they float to the surface. 5. Serve with soy sauce or dipping sauce.",
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": "4",
@@ -33,7 +156,48 @@
     "short_bio": "Sarah is a pastry chef who specializes in gluten-free desserts.",
     "years_of_experience": 5,
     "num_recipes": 20,
-    "likes": 500
+    "likes": 500,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "ingredients": [
+          "chicken breast",
+          "dried red chilies",
+          "roasted peanuts",
+          "soy sauce",
+          "hoisin sauce"
+        ],
+        "cookingMethod": "1. Cut the chicken into small pieces and marinate with soy sauce, cornstarch and Shaoxing wine for 20 minutes. 2. Heat oil in a wok or pan, stir-fry the chicken until golden brown and set aside. 3. Stir-fry the dried red chilies, Sichuan peppercorns and garlic until fragrant. 4. Add the chicken back to the wok, along with hoisin sauce and roasted peanuts. 5. Stir-fry everything for a few minutes, then serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Hot and Sour Soup",
+        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "ingredients": [
+          "tofu",
+          "bamboo shoots",
+          "wood ear mushrooms",
+          "egg",
+          "white pepper"
+        ],
+        "cookingMethod": "1. Soak the wood ear mushrooms in water until soft, then slice into thin strips. 2. Cut tofu and bamboo shoots into thin strips. 3. Bring chicken stock to a boil, add the tofu, bamboo shoots, and wood ear mushrooms and simmer for 5 minutes. 4. Beat an egg in a small bowl and slowly pour into the soup while stirring. 5. Season with white pepper and vinegar. 6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Dumplings",
+        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "ingredients": [
+          "ground pork",
+          "chinese cabbage",
+          "green onion",
+          "ginger",
+          "wonton wrappers"
+        ],
+        "cookingMethod": "1. Mix ground pork, chopped Chinese cabbage, chopped green onion, and minced ginger in a bowl. 2. Place a spoonful of the filling onto a wonton wrapper. 3. Wet the edges of the wrapper with water and fold in half to seal. 4. Bring a pot of water to a boil, add the dumplings and cook until they float to the surface. 5. Serve with soy sauce or dipping sauce.",
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": "5",
@@ -42,7 +206,48 @@
     "short_bio": "David is a Korean-American chef who combines his heritage with modern techniques.",
     "years_of_experience": 12,
     "num_recipes": 60,
-    "likes": 900
+    "likes": 900,
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "ingredients": [
+          "chicken breast",
+          "dried red chilies",
+          "roasted peanuts",
+          "soy sauce",
+          "hoisin sauce"
+        ],
+        "cookingMethod": "1. Cut the chicken into small pieces and marinate with soy sauce, cornstarch and Shaoxing wine for 20 minutes. 2. Heat oil in a wok or pan, stir-fry the chicken until golden brown and set aside. 3. Stir-fry the dried red chilies, Sichuan peppercorns and garlic until fragrant. 4. Add the chicken back to the wok, along with hoisin sauce and roasted peanuts. 5. Stir-fry everything for a few minutes, then serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Hot and Sour Soup",
+        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "ingredients": [
+          "tofu",
+          "bamboo shoots",
+          "wood ear mushrooms",
+          "egg",
+          "white pepper"
+        ],
+        "cookingMethod": "1. Soak the wood ear mushrooms in water until soft, then slice into thin strips. 2. Cut tofu and bamboo shoots into thin strips. 3. Bring chicken stock to a boil, add the tofu, bamboo shoots, and wood ear mushrooms and simmer for 5 minutes. 4. Beat an egg in a small bowl and slowly pour into the soup while stirring. 5. Season with white pepper and vinegar. 6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Dumplings",
+        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "ingredients": [
+          "ground pork",
+          "chinese cabbage",
+          "green onion",
+          "ginger",
+          "wonton wrappers"
+        ],
+        "cookingMethod": "1. Mix ground pork, chopped Chinese cabbage, chopped green onion, and minced ginger in a bowl. 2. Place a spoonful of the filling onto a wonton wrapper. 3. Wet the edges of the wrapper with water and fold in half to seal. 4. Bring a pot of water to a boil, add the dumplings and cook until they float to the surface. 5. Serve with soy sauce or dipping sauce.",
+        "rating": 4.8
+      }
+    ]
   },
   {
     "id": "6",
@@ -51,6 +256,41 @@
     "short_bio": "Emily is a vegan chef who creates plant-based versions of classic dishes.",
     "years_of_experience": 7,
     "num_recipes": 30,
-    "likes": 700
+    "likes": 700,
+    "recipes": [
+      {
+        "name": "Steamed Fish with Ginger and Scallions",
+        "photo": "https://i.ibb.co/nPNTzgp/steamed-fish.jpg",
+        "ingredients": ["whole fish", "ginger", "scallions", "soy sauce", "Shaoxing wine", "sesame oil"],
+        "cookingMethod": "1. Clean and scale the whole fish, then pat it dry with paper towels. 2. Cut ginger and scallions into thin strips and place them on top of the fish. 3. Mix soy sauce, Shaoxing wine, and sesame oil, and pour the mixture over the fish. 4. Steam the fish in a steamer for 10-15 minutes, or until fully cooked. 5. Serve hot with steamed rice.",
+        "rating": 4.9
+        },
+      {
+        "name": "Hot and Sour Soup",
+        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "ingredients": [
+          "tofu",
+          "bamboo shoots",
+          "wood ear mushrooms",
+          "egg",
+          "white pepper"
+        ],
+        "cookingMethod": "1. Soak the wood ear mushrooms in water until soft, then slice into thin strips. 2. Cut tofu and bamboo shoots into thin strips. 3. Bring chicken stock to a boil, add the tofu, bamboo shoots, and wood ear mushrooms and simmer for 5 minutes. 4. Beat an egg in a small bowl and slowly pour into the soup while stirring. 5. Season with white pepper and vinegar. 6. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Dumplings",
+        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "ingredients": [
+          "ground pork",
+          "chinese cabbage",
+          "green onion",
+          "ginger",
+          "wonton wrappers"
+        ],
+        "cookingMethod": "1. Mix ground pork, chopped Chinese cabbage, chopped green onion, and minced ginger in a bowl. 2. Place a spoonful of the filling onto a wonton wrapper. 3. Wet the edges of the wrapper with water and fold in half to seal. 4. Bring a pot of water to a boil, add the dumplings and cook until they float to the surface. 5. Serve with soy sauce or dipping sauce.",
+        "rating": 4.8
+      }
+    ]
   }
 ]
