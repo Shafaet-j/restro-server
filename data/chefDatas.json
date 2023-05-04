@@ -59,7 +59,7 @@
     "likes": 800,
     "recipes": [
       {
-        "name": "Kung Pao Chicken",
+        "name": "Hunan Shrimp",
         "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
         "ingredients": [
           "chicken breast",
@@ -72,7 +72,7 @@
         "rating": 4.7
       },
       {
-        "name": "Hot and Sour Soup",
+        "name": "Sesame Chicken Rice Bowl ",
         "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
         "ingredients": [
           "tofu",
@@ -85,7 +85,7 @@
         "rating": 4.5
       },
       {
-        "name": "Dumplings",
+        "name": "Sweet and Sour Meatballs",
         "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
         "ingredients": [
           "ground pork",
@@ -109,7 +109,7 @@
     "likes": 1200,
     "recipes": [
       {
-        "name": "Kung Pao Chicken",
+        "name": "General Tso Chicken",
         "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
         "ingredients": [
           "chicken breast",
@@ -122,7 +122,7 @@
         "rating": 4.7
       },
       {
-        "name": "Hot and Sour Soup",
+        "name": "Egg Roll Soup",
         "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
         "ingredients": [
           "tofu",
@@ -135,7 +135,7 @@
         "rating": 4.5
       },
       {
-        "name": "Dumplings",
+        "name": "Pork Stir Fry",
         "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
         "ingredients": [
           "ground pork",
@@ -159,8 +159,8 @@
     "likes": 500,
     "recipes": [
       {
-        "name": "Kung Pao Chicken",
-        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "name": "Chicken Lettuce Wraps with Peanut Sauce",
+        "photo": "https://i.ibb.co/4t1n4r1/Screenshot-2023-05-04-at-13-57-48-The-35-BEST-Chinese-Recipes.png",
         "ingredients": [
           "chicken breast",
           "dried red chilies",
@@ -172,8 +172,8 @@
         "rating": 4.7
       },
       {
-        "name": "Hot and Sour Soup",
-        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "name": "Beijing Beef",
+        "photo": "https://i.ibb.co/SykrMvq/Beijing-Beef.png",
         "ingredients": [
           "tofu",
           "bamboo shoots",
@@ -185,8 +185,8 @@
         "rating": 4.5
       },
       {
-        "name": "Dumplings",
-        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "name": "Wonton Soup",
+        "photo": "https://i.ibb.co/DY191km/Wonton-Soup.png",
         "ingredients": [
           "ground pork",
           "chinese cabbage",
@@ -209,8 +209,8 @@
     "likes": 900,
     "recipes": [
       {
-        "name": "Kung Pao Chicken",
-        "photo": "https://i.ibb.co/9q8XwBj/ryan-kwok-Fhe-Bw4-Bf-Rp-Q-unsplash.jpg",
+        "name": "Moo Shu Chicken",
+        "photo": "https://i.ibb.co/CtScfMh/Moo-Shu-Chicken.png",
         "ingredients": [
           "chicken breast",
           "dried red chilies",
@@ -222,8 +222,8 @@
         "rating": 4.7
       },
       {
-        "name": "Hot and Sour Soup",
-        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "name": "Chili Oil",
+        "photo": "https://i.ibb.co/N3yfYhj/Chili-Oil.png",
         "ingredients": [
           "tofu",
           "bamboo shoots",
@@ -235,8 +235,8 @@
         "rating": 4.5
       },
       {
-        "name": "Dumplings",
-        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "name": "Spicy Noodles",
+        "photo": "https://i.ibb.co/Wf0bsNQ/Spicy-Noodles.png",
         "ingredients": [
           "ground pork",
           "chinese cabbage",
@@ -266,8 +266,8 @@
         "rating": 4.9
         },
       {
-        "name": "Hot and Sour Soup",
-        "photo": "https://i.ibb.co/PYjr9fz/elena-mozhvilo-oox-Jhjrv-Y0-M-unsplash.jpg",
+        "name": "Spicy Garlic Shrimp",
+        "photo": "https://i.ibb.co/92g8R1s/Spicy-Garlic-Shrimp.png",
         "ingredients": [
           "tofu",
           "bamboo shoots",
@@ -279,8 +279,8 @@
         "rating": 4.5
       },
       {
-        "name": "Dumplings",
-        "photo": "https://i.ibb.co/vd4GqH9/abhishek-sanwa-limbu-LR559-Dcst70-unsplash.jpg",
+        "name": "Mongolian Ground Beef",
+        "photo": "https://i.ibb.co/9GL9chB/Mongolian-Ground-Beef.png",
         "ingredients": [
           "ground pork",
           "chinese cabbage",
